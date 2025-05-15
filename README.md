@@ -1,2 +1,2 @@
-# needmoretime
-всяческие работы
+# Лабораторные работы Windows Forms
+
